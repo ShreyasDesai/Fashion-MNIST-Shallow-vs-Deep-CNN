@@ -7,7 +7,7 @@ Dear Evaluator,
 I have completed the Graded Assignment. The complete Jupyter Notebook, dataset visualizations, training history plots, comparative tables, error analysis, and the comprehensive scientific report have been pushed to my public GitHub repository.
 
 GitHub Repository Link: 
-https://github.com/YOUR_GITHUB_USERNAME/Fashion-MNIST-Shallow-vs-Deep-CNN
+https://github.com/ShreyasDesai/Fashion-MNIST-Shallow-vs-Deep-CNN
 
 Project File Tree & Contents:
 - Fashion_MNIST_Shallow_vs_Deep_CNN.ipynb (Fully executed Jupyter Notebook containing all parts)
