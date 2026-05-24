@@ -1,0 +1,70 @@
+========================================================================
+    HOW TO PUBLISH AND SUBMIT YOUR GRADED CNN ASSIGNMENT
+========================================================================
+
+Follow these simple steps to push your completed assignment to GitHub and share the link on Vlearn.
+
+STEP 1: INITIALIZE GIT AND PUSH TO GITHUB
+------------------------------------------
+1. Open Git Bash, Command Prompt, or PowerShell.
+2. Navigate to your project folder:
+   cd "C:\Shreyas\antigravity\HeroVired\Graded Assignment on Convolutional Neural Networks (CNN)"
+
+3. Initialize a new Git repository:
+   git init
+
+4. Add all files to staging:
+   git add .
+
+5. Commit the files locally:
+   git commit -m "Complete Fashion-MNIST Shallow vs Deep CNN Study"
+
+6. Go to https://github.com/ and sign in.
+   - Click the "New" button to create a new repository.
+   - Name your repository: "Fashion-MNIST-Shallow-vs-Deep-CNN"
+   - Leave it PUBLIC. Do NOT check "Add a README", "Add .gitignore", or "Choose a license" (since we already have our files).
+   - Click "Create repository".
+
+7. Copy the repository link (e.g., https://github.com/YOUR_USERNAME/Fashion-MNIST-Shallow-vs-Deep-CNN.git).
+
+8. Link your local directory to GitHub and push your files (replace <YOUR_REPO_URL> with the link you copied):
+   git branch -M main
+   git remote add origin <YOUR_REPO_URL>
+   git push -u origin main
+
+
+STEP 2: VLEARN SUBMISSION TEXT
+------------------------------
+Vlearn requires you to upload a text, Word, or PDF file containing the repository link. 
+
+Below is a ready-to-use submission template. Copy the text below, paste it into a Text Document (or Word file), save it as "CNN_Assignment_Submission.txt", replace "YOUR_GITHUB_USERNAME" with your actual username, and submit it on Vlearn:
+
+--- [COPY TEXT BELOW] ---
+
+Hero Vired - Deep Learning Program
+Graded Assignment: Comparative Study of Shallow CNN vs Deep CNN on Fashion-MNIST
+Status: Fully Completed
+
+Dear Evaluator,
+
+I have completed the Graded Assignment. The complete Jupyter Notebook, dataset visualizations, training history plots, comparative tables, error analysis, and the comprehensive scientific report have been pushed to my public GitHub repository.
+
+GitHub Repository Link: 
+https://github.com/YOUR_GITHUB_USERNAME/Fashion-MNIST-Shallow-vs-Deep-CNN
+
+Project File Tree & Contents:
+- Fashion_MNIST_Shallow_vs_Deep_CNN.ipynb (Fully executed Jupyter Notebook containing all parts)
+- Comparative_Report.md (Detailed scientific comparative report summarizing findings)
+- README.md (Setup instructions, package dependencies, and summary of results)
+- cnn_comparison_table.csv (Numerical performance logs for both models)
+- fashion_mnist_classes.png (Sample images from the 10 classes)
+- shallow_cnn_learning_curves.png (Accuracy & loss history for the Shallow model)
+- deep_cnn_learning_curves.png (Accuracy & loss history for the Deep model)
+- shallow_cnn_predictions.png (Sample correct & incorrect predictions for the Shallow model)
+- deep_cnn_predictions.png (Sample correct & incorrect predictions for the Deep model)
+- confusion_matrices.png (Confusion matrices side-by-side)
+
+Thank you,
+Shreyas
+
+--- [END OF COPY TEXT] ---

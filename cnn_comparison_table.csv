@@ -1,0 +1,8 @@
+Metric,Shallow CNN,Deep CNN
+Number of Conv Layers,2,4
+Total Parameters,"1,011,466","889,834"
+Training Accuracy,97.65%,93.74%
+Validation Accuracy,92.13%,92.85%
+Test Accuracy,91.84%,92.58%
+Overfitting Observed?,Yes (Gap: 5.52%),Minimal
+Training Time,180.72 s,313.48 s
