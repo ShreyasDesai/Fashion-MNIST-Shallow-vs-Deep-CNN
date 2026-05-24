@@ -1,0 +1,25 @@
+Hero Vired - Deep Learning Program
+Graded Assignment: Comparative Study of Shallow CNN vs Deep CNN on Fashion-MNIST
+Status: Fully Completed
+
+Dear Evaluator,
+
+I have completed the Graded Assignment. The complete Jupyter Notebook, dataset visualizations, training history plots, comparative tables, error analysis, and the comprehensive scientific report have been pushed to my public GitHub repository.
+
+GitHub Repository Link: 
+https://github.com/YOUR_GITHUB_USERNAME/Fashion-MNIST-Shallow-vs-Deep-CNN
+
+Project File Tree & Contents:
+- Fashion_MNIST_Shallow_vs_Deep_CNN.ipynb (Fully executed Jupyter Notebook containing all parts)
+- Comparative_Report.md (Detailed scientific comparative report summarizing findings)
+- README.md (Setup instructions, package dependencies, and summary of results)
+- cnn_comparison_table.csv (Numerical performance logs for both models)
+- fashion_mnist_classes.png (Sample images from the 10 classes)
+- shallow_cnn_learning_curves.png (Accuracy & loss history for the Shallow model)
+- deep_cnn_learning_curves.png (Accuracy & loss history for the Deep model)
+- shallow_cnn_predictions.png (Sample correct & incorrect predictions for the Shallow model)
+- deep_cnn_predictions.png (Sample correct & incorrect predictions for the Deep model)
+- confusion_matrices.png (Confusion matrices side-by-side)
+
+Thank you,
+Shreyas
